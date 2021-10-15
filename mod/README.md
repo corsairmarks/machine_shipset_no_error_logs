@@ -121,6 +121,7 @@ Many entity definitions were tweaked to remove (or sometimes add) animations.  "
     * Allow nightlights attachment on `machine_01_habitat_phase_03_entity`
     * Remove animation from `machine_01_habitat_phase_03_section_entity` - the mesh isn't animated
     * Remove animation from `machine_01_terraform_station_entity` - the mesh isn't animated
+    * Add state timers to `machine_01_terraform_station_entity` matching those on `machine_01_mining_station_entity` (which uses the exact same mesh)
     * Set animation for the `working` and `working_looping` states for `machine_01_constructor_entity` to `idle`; the attached entity `machine_01_construction_ship_entity` is responsible for the actual animation
     * Remove animations from `machine_01_colonizer_entity` - the mesh isn't animated
     * Remove animations from `machine_01_science_ship_entity` - the mesh isn't animated

@@ -1831,7 +1831,7 @@ entity = {
 	pdxmesh = "machine_01_mining_station_mesh"
 
 	default_state = "idle"
-	state = { name = "idle" # animation = "idle"
+	state = { name = "idle" state_time = 5 # animation = "idle"
 		start_event = { trigger_once = yes sound = { soundeffect = "amb_terraforming_station_idle_hum" } }
 		event = { time = 0.0 node = "light_locator_01" particle = "ship_light_blue_effect" keep_particle = yes trigger_once = yes }
 		event = { time = 2.0 node = "light_locator_02" particle = "ship_light_blue_effect" keep_particle = yes trigger_once = yes }
@@ -1842,7 +1842,7 @@ entity = {
 		event = { time = 0.0 node = "light_locator_07" particle = "ship_light_blue_effect" keep_particle = yes trigger_once = yes }
 		event = { time = 0.0 node = "light_locator_08" particle = "ship_light_blue_effect" keep_particle = yes trigger_once = yes }
 	}
-	state = { name = "death" looping = no # animation = "death"
+	state = { name = "death" state_time = 2 looping = no # animation = "death"
 		event = { time = 0.0 node = "light_locator_08" particle = "lithoid_ship_explosion_s_effect" keep_particle = yes trigger_once = yes sound = { soundeffect = "station_explosion_small" } }
 		event = { time = 0.5 node = "light_locator_05" particle = "lithoid_ship_explosion_s_effect" keep_particle = yes trigger_once = yes sound = { soundeffect = "station_explosion_small" } }
 		event = { time = 1.5 node = "light_locator_02" particle = "lithoid_ship_explosion_s_effect" keep_particle = yes trigger_once = yes sound = { soundeffect = "station_explosion_small" } }
