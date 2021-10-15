@@ -157,7 +157,7 @@ Will probably cause issues with Machine Shipset compatibility patches for other 
 
 ### Required Dependency Mods
 
-Requires [Machine Shipset](https://steamcommunity.com/sharedfiles/filedetails/?id=2077186491)
+[Machine Shipset](https://steamcommunity.com/sharedfiles/filedetails/?id=2077186491) for the original graphics and other ship-related code.
 
 ## Changelog
 
