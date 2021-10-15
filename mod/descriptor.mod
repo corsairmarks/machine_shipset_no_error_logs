@@ -1,4 +1,4 @@
-name="Machine Shipset Addon: Reduce Error Logs"
+name="Machine Shipset Addon: Eliminate Error Logs"
 dependencies={
 	"Machine Shipset"
 }
