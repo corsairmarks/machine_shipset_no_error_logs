@@ -1,3 +1,29 @@
+[h1]Overview[/h1]
 
+Are you a mod developer who is tired of the noisy error logs from the Machine Shipset?  Then this mod is for you (and me)!  This mod does [b]NOT[/b] redistribute any of the graphics from the Machine Shipset, but does redefine and replace entity asset files in order to eliminate many error messages and some syntax errors.
+
+Along the way, I also added missing particles based on the source definitions (generally from the mammalian or molluscoid ships).  Also missing from several files were the variables defining engine trail length.  Between these two refinements, the Machine Shipset looks nicer than ever.
+
+[h1]Changes[/h1]
+
+Many entity definitions were tweaked to remove (or sometimes add) animations.  "Removed" code was commented out rather than deleted so it should be straightforward to re-enable sections responsible for things for compatibility with NSC, RS, DSS, or ACG.  AryxErin, if you are reading this - feel free to harvest fixes for use in your mod directly.
+
+If you want to read the huge, explicit list I made of the changes please visit this mod's GitHub page ove view the README.md in its root directory.
+
+[h2]Compatibility[/h2]
+
+Will probably cause issues with Machine Shipset compatibility patches for other large mods (New Ship Classes, Downscaled Ships, Real Space System Scale, Aesthetic Cinematic Gameplay).  I don't use any of those mods and did not test for compatibility, but I know that I commented out code related to supporting assets from those mods.  That ensures errors are not generated when they are not installed.
+
+[h3]Required Dependency Mods[/h3]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2077186491]Machine Shipset[/url] for the original graphics and other ship-related code.
+
+[h2]Changelog[/h2]
+
+See [url=]Change Notes[/url]
+
+[h2]Source Code[/h2]
+
+Hosted on [url=https://github.com/corsairmarks/machine_shipset_no_error_logs]GitHub[/url]
 
 [url=https://discord.gg/bHVez2C][img]https://i.imgur.com/4Und3QN.png[/img][/url]

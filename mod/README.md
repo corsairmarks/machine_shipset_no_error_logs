@@ -153,7 +153,7 @@ Many entity definitions were tweaked to remove (or sometimes add) animations.  "
 
 ## Compatibility
 
-Will probably cause issues with Machine Shipset compatibility patches for other large mods (New Ship Classes, Downscaled Ships, Real Space System Scale, Aesthetic Cinematic Gameplay).  I don't use any of those mods and did not test for compatibility, but I know that I commented out code related to supporting assets related to those mods so errors are not generated when they are not installed.
+Will probably cause issues with Machine Shipset compatibility patches for other large mods (New Ship Classes, Downscaled Ships, Real Space System Scale, Aesthetic Cinematic Gameplay).  I don't use any of those mods and did not test for compatibility, but I know that I commented out code related to supporting assets from those mods.  That ensures errors are not generated when they are not installed.
 
 ### Required Dependency Mods
 
