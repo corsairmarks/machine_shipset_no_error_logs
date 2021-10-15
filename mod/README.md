@@ -165,7 +165,7 @@ Will probably cause issues with Machine Shipset compatibility patches for other 
 
 ## Source Code
 
-Hosted on [GitHub]()
+Hosted on [GitHub](https://github.com/corsairmarks/machine_shipset_no_error_logs)
 
 ### Development Notes
 
