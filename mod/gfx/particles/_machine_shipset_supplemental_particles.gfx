@@ -1,0 +1,116 @@
+objectTypes = {
+	#####
+	# Exhaust Moving
+	#####
+
+	#### Circle
+	pdxparticle = {
+		name = "generic_035_exhaust_circle_moving"
+		type = "generic_exhaust_circle_moving_effect_file"
+		scale = 0.350
+	}
+
+	######
+	# MACHINE 01
+	######
+
+	# SINGLE
+
+	pdxparticle = {
+		name = "machine_01_0_5_exhaust_idle_particle"
+		type = "molluscoid_01_ship_exhaust_idle_file"
+		scale = 0.5
+	}
+
+	pdxparticle = {
+		name = "machine_01_1_0_exhaust_idle_particle"
+		type = "molluscoid_01_ship_exhaust_idle_file"
+		scale = 1.0
+	}
+
+	pdxparticle = {
+		name = "machine_01_1_5_exhaust_idle_particle"
+		type = "molluscoid_01_ship_exhaust_idle_file"
+		scale = 1.5
+	}
+
+	pdxparticle = {
+		name = "machine_01_2_0_exhaust_idle_particle"
+		type = "molluscoid_01_ship_exhaust_idle_file"
+		scale = 2.0
+	}
+
+	pdxparticle = {
+		name = "machine_01_2_5_exhaust_idle_particle"
+		type = "molluscoid_01_ship_exhaust_idle_file"
+		scale = 2.5
+	}
+
+	pdxparticle = {
+		name = "machine_01_3_0_exhaust_idle_particle"
+		type = "molluscoid_01_ship_exhaust_idle_file"
+		scale = 3.0
+	}
+
+	pdxparticle = {
+		name = "machine_01_10_0_exhaust_idle_particle"
+		type = "molluscoid_01_ship_exhaust_idle_file"
+		scale = 10.0
+	}
+
+	pdxparticle = {
+		name = "machine_01_1_45_exhaust_idle_particle"
+		type = "mammalian_01_ship_exhaust_idle_file"
+		scale = 1.45
+	}
+		
+	pdxparticle = {
+		name = "machine_01_2_35_exhaust_idle_particle"
+		type = "mammalian_01_ship_exhaust_idle_file"
+		scale = 2.35
+	}
+
+	pdxparticle = {
+		name = "machine_01_1_45_ship_exhaust_moving_particle"
+		type = "mammalian_01_ship_exhaust_file"
+		scale = 1.45
+	}
+
+	pdxparticle = {
+		name = "machine_01_2_35_ship_exhaust_moving_particle"
+		type = "mammalian_01_ship_exhaust_file"
+		scale = 2.35
+	}
+
+	# OBLONG
+
+	pdxparticle = {
+		name = "machine_01_1_5_exhaust_oblong_idle_particle"
+		type = "molluscoid_01_ship_exhaust_idle_large_file"
+		scale = 1.5
+	}
+
+	pdxparticle = {
+		name = "machine_01_2_0_exhaust_oblong_idle_particle"
+		type = "mammalian_01_ship_exhaust_idle_large_file"
+		scale = 2.0
+	}
+	
+	pdxparticle = {
+		name = "machine_01_2_35_exhaust_oblong_idle_particle"
+		type = "mammalian_01_ship_exhaust_idle_large_file"
+		scale = 2.35
+	}
+
+	pdxparticle = {
+		name = "machine_01_1_5_ship_exhaust_oblong_moving_particle"
+		type = "mammalian_01_ship_exhaust_oblong_file"
+		scale = 1.5
+	}
+	
+	pdxparticle = {
+		name = "machine_01_2_0_ship_exhaust_oblong_moving_particle"
+		type = "mammalian_01_ship_exhaust_oblong_file"
+		scale = 2.0
+	}
+}

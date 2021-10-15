@@ -1,0 +1,15 @@
+According to the Paradox Development Studios' "User Modding
+Rules of PDS Games" I cannot license this code to you (point
+4).
+
+Source: https://forum.paradoxplaza.com/forum/threads/updated-14-06-18-rules-for-user-made-mods-and-edits-of-pds-games.708039/
+
+The majority of the code redistributed in this mod was written
+by AryxErin and the other authors of the Machine Shipset.  Nono
+of their original art is included in this mod, and the minimum
+amount of overwritten text files are included to eliminate error
+log messages.
+
+I (nicholas butcher) have added missing particle definitions
+(reusing predefined particles by PDS) and added a category for
+the sound asset.

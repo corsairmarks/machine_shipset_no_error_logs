@@ -1,0 +1,16 @@
+category = {
+	name = "MachineShipsetEffects"
+	soundeffects = {
+		athena_cruiser_engine_fire
+	}
+	# settings match default category "Effects" which is the category containing the built in ship engine sounds
+	compressor = {
+		enabled = yes
+		pregain = 2
+		postgain = 1.5
+		ratio = 10
+		threshold = -8
+		attacktime = 0.3
+		releasetime = 0.02
+	}
+}
