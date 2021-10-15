@@ -1,0 +1,411 @@
+[11:31:20][assetfactory_audio.cpp:941]: SoundEffect 'athena_cruiser_engine_fire' does not have a category assigned
+[11:31:34][persistent.cpp:35]: Error: "Unexpected token: ARYXERIN, near line: 28
+" in file: "gfx/models/ships/Crisis_Assets/machine_01_crisis_entities.asset" near line: 28
+[11:31:34][assetfactory.cpp:1113]: Could not find animation file gfx/models/ships/Megastructure_Assets/Gateway/gateway_idle.anim (referenced near line 6 in gfx/models/ships/Megastructure_Assets/Gateway/machine_01_gateway.asset)
+[11:31:34][assetfactory.cpp:1113]: Could not find animation file gfx/models/ships/Megastructure_Assets/Gateway/gateway_death.anim (referenced near line 11 in gfx/models/ships/Megastructure_Assets/Gateway/machine_01_gateway.asset)
+[11:31:36][assetfactory.cpp:1113]: Could not find animation file gfx/models/ships/gfx/models/ships/Cruiser_assets/machine_01_cruiser_death.anim (referenced near line 35 in gfx/models/ships/machine_01_ships_animations.asset)
+[11:31:36][assetfactory.cpp:1113]: Could not find animation file gfx/models/ships/gfx/models/ships/Cruiser_assets/machine_01_cruiser_death.anim (referenced near line 40 in gfx/models/ships/machine_01_ships_animations.asset)
+[11:31:36][assetfactory.cpp:1113]: Could not find animation file gfx/models/ships/gfx/models/ships/cruiser_assets/machine_01_cruiser_death.anim (referenced near line 45 in gfx/models/ships/machine_01_ships_animations.asset)
+[11:31:36][assetfactory.cpp:1113]: Could not find animation file gfx/models/ships/gfx/models/ships/cruiser_assets/machine_01_cruiser_frame_idle.anim (referenced near line 50 in gfx/models/ships/machine_01_ships_animations.asset)
+[11:31:36][assetfactory.cpp:1113]: Could not find animation file gfx/models/ships/molluscoid_01_science_station_idle.anim (referenced near line 106 in gfx/models/ships/machine_01_ships_animations.asset)
+[11:31:36][assetfactory.cpp:1113]: Could not find animation file gfx/models/ships/molluscoid_01_science_station_death.anim (referenced near line 111 in gfx/models/ships/machine_01_ships_animations.asset)
+[11:31:36][assetfactory.cpp:1113]: Could not find animation file gfx/models/ships/molluscoid_01_orbital_station_main_idle.anim (referenced near line 116 in gfx/models/ships/machine_01_ships_animations.asset)
+[11:31:36][assetfactory.cpp:1113]: Could not find animation file gfx/models/ships/molluscoid_01_orbital_station_main_death.anim (referenced near line 121 in gfx/models/ships/machine_01_ships_animations.asset)
+[11:31:43][pdx_particle.cpp:1917]: Particle name is not unique: lithoid_01_science_core_file
+[11:31:45][pdxmeshtype.cpp:821]: Failed to find animation: "mammalian_01_dreadnought_frame_idle_animation"... Make sure it is declared in a .asset file.
+[11:31:45][pdxmeshtype.cpp:821]: Failed to find animation: "mammalian_01_dreadnought_frame_death_animation"... Make sure it is declared in a .asset file.
+[11:31:45][pdxmeshtype.cpp:821]: Failed to find animation: "mammalian_01_dreadnought_frame_idle_animation"... Make sure it is declared in a .asset file.
+[11:31:45][pdxmeshtype.cpp:821]: Failed to find animation: "mammalian_01_flagship_frame_idle_animation"... Make sure it is declared in a .asset file.
+[11:31:45][pdxmeshtype.cpp:821]: Failed to find animation: "mammalian_01_flagship_frame_death_animation"... Make sure it is declared in a .asset file.
+[11:31:45][pdxmeshtype.cpp:821]: Failed to find animation: "mammalian_01_flagship_frame_idle_animation"... Make sure it is declared in a .asset file.
+[11:31:45][pdxmeshtype.cpp:821]: Failed to find animation: "mammalian_01_battlecruiser_frame_idle_animation"... Make sure it is declared in a .asset file.
+[11:31:45][pdxmeshtype.cpp:821]: Failed to find animation: "mammalian_01_battlecruiser_frame_death_animation"... Make sure it is declared in a .asset file.
+[11:31:45][pdxmeshtype.cpp:821]: Failed to find animation: "mammalian_01_battlecruiser_frame_idle_animation"... Make sure it is declared in a .asset file.
+[11:31:45][pdxmeshtype.cpp:821]: Failed to find animation: "machine_01_cruiser_frame_death_animation"... Make sure it is declared in a .asset file.
+[11:31:45][graphics.cpp:527]: a 3d-type with the name "machine_01_exploration_cruiser_stern_L1_mesh" already exists!  file: gfx/models/ships/machine_01_ships_meshes.gfx line: 491
+[11:31:45][graphics.cpp:527]: a 3d-type with the name "machine_01_strike_cruiser_stern_M1_mesh" already exists!  file: gfx/models/ships/machine_01_ships_meshes.gfx line: 507
+[11:31:47][pdxmeshtype.cpp:149]: Could not find mesh file gfx/models/ships/Old_Assets/machine_01_battleship_mid_2_M4SHB.mesh for machine_01_old_battleship_mid_2_M4SHB_mesh, switching to gfx/models/test_object.mesh
+[11:31:48][pdxmeshtype.cpp:149]: Could not find mesh file gfx/models/ships/mammalian_01/mammalian_01_flagship_frame.mesh for machine_01_flagship_frame_mesh, switching to gfx/models/test_object.mesh
+[11:31:48][pdxassetutil.cpp:1931]: Didn't find skeleton in mesh file
+[11:31:48][pdxmeshtype.cpp:429]: Animation [gateway_idle_animation] is not compatible with mesh [machine_01_gateway_mesh]
+[11:31:48][pdxmeshtype.cpp:429]: Animation [gateway_death_animation] is not compatible with mesh [machine_01_gateway_mesh]
+[11:31:49][pdxmeshtype.cpp:149]: Could not find mesh file gfx/models/ships/mammalian_01/mammalian_01_dreadnought_frame.mesh for machine_01_dreadnought_frame_mesh, switching to gfx/models/test_object.mesh
+[11:31:50][pdxmeshtype.cpp:149]: Could not find mesh file gfx/models/ships/Corvette_Assets/machine_01_corvette_S1.mesh for machine_01_corvette_S1_mesh, switching to gfx/models/test_object.mesh
+[11:31:51][pdxmeshtype.cpp:149]: Could not find mesh file gfx/models/ships/Old_Assets/machine_01_battleship_bow_M2S4.mesh for machine_01_old_battleship_bow_M2S4_mesh, switching to gfx/models/test_object.mesh
+[11:31:51][pdxmeshtype.cpp:149]: Could not find mesh file gfx/models/ships/Battleship_Assets/machine_01_battleship_mid_2_M4SHB.mesh for machine_01_battleship_mid_2_M4SHB_mesh, switching to gfx/models/test_object.mesh
+[11:31:53][pdxmeshtype.cpp:149]: Could not find mesh file gfx/models/ships/mammalian_01/mammalian_01_battlecruiser_frame.mesh for machine_01_battlecruiser_frame_mesh, switching to gfx/models/test_object.mesh
+[11:31:53][pdxassetutil.cpp:1931]: Didn't find skeleton in mesh file
+[11:31:53][pdxmeshtype.cpp:429]: Animation [machine_01_colossus_frame_idle_animation] is not compatible with mesh [machine_01_colossus_frame_mesh]
+[11:31:53][pdxmeshtype.cpp:429]: Animation [machine_01_colossus_frame_closed_death_animation] is not compatible with mesh [machine_01_colossus_frame_mesh]
+[11:31:53][pdxmeshtype.cpp:429]: Animation [machine_01_colossus_frame_opened_death_animation] is not compatible with mesh [machine_01_colossus_frame_mesh]
+[11:31:54][pdxmeshtype.cpp:149]: Could not find mesh file gfx/models/ships/Megastructure_Assets/Matter_Decompressor/machine_01_matter_decompressor_destroyed.mesh for machine_01_matter_decompressor_destroyed_01_mesh, switching to gfx/models/test_object.mesh
+[11:31:54][pdxmeshtype.cpp:149]: Could not find mesh file gfx/models/ships/Battleship_Assets/machine_01_battleship_bow_M2S4.mesh for machine_01_battleship_bow_M2S4_mesh, switching to gfx/models/test_object.mesh
+[11:31:54][pdx_entity.cpp:275]: machine_01_colossus_entity.idle uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_colossus_entity.moving uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_colossus_entity.working uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_colossus_entity.death uses [animation = closed_death] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_colossus_entity.death uses [animation = opened_death] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "lithoid_01_starbase_core_effect" (or lithoid_01_starbase_core_effect is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "generic_035_exhaust_circle_moving" (or generic_035_exhaust_circle_moving is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "generic_035_exhaust_circle_moving" (or generic_035_exhaust_circle_moving is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "large_player_lithoid_ship_explosion_s_effect" (or large_player_lithoid_ship_explosion_s_effect is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:2671]: Couldn't find mesh "machine_01_orbital_station_frame_mesh" (or machine_01_orbital_station_frame_mesh is not of 'pdxmesh' type) [machine_01_orbital_station_entity]
+[11:31:54][pdx_entity.cpp:2671]: Couldn't find mesh "machine_01_orbital_station_mesh" (or machine_01_orbital_station_mesh is not of 'pdxmesh' type) [machine_01_orbital_station_core_entity]
+[11:31:54][pdx_entity.cpp:275]: machine_01_orbital_station_core_entity.idle uses [animation = rotate] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_orbital_station_core_entity.death uses [animation = death] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_orbital_station_core_entity.habitat_idle uses [animation = rotate] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_habitat_phase_03_section_entity.construction uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_habitat_phase_03_section_entity.death uses [animation = death] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_terraform_station_entity.idle uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_terraform_station_entity.death uses [animation = death] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:260]: Could not find animation "working" for state "working" in entity "machine_01_constructor_entity"
+[11:31:54][pdx_entity.cpp:260]: Could not find animation "working_looping" for state "working_looping" in entity "machine_01_constructor_entity"
+[11:31:54][pdx_entity.cpp:2671]: Couldn't find mesh "machine_01_corvette_frame_mesh" (or machine_01_corvette_frame_mesh is not of 'pdxmesh' type) [machine_01_colonizer_entity]
+[11:31:54][pdx_entity.cpp:275]: machine_01_colonizer_entity.idle uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_colonizer_entity.moving uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_colonizer_entity.death uses [animation = death3] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_science_ship_entity.death uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:2671]: Couldn't find mesh "machine_01_corvette_frame_mesh" (or machine_01_corvette_frame_mesh is not of 'pdxmesh' type) [machine_01_transport_entity]
+[11:31:54][pdx_entity.cpp:275]: machine_01_transport_entity.idle uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_transport_entity.moving uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_transport_entity.death uses [animation = death3] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_dyson_sphere_phase_01_entity.dyson_idle uses [animation = ringspin] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_gateway_entity.idle uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_gateway_entity.death uses [animation = death] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_deactivated_gateway_entity.death uses [animation = death] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_reactivated_gateway_entity.idle uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_reactivated_gateway_entity.death uses [animation = death] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_matter_decompressor_stage_1_construction_entity.idle uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_matter_decompressor_stage_2_construction_entity.idle uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_matter_decompressor_stage_3_construction_entity.idle uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_matter_decompressor_stage_4_construction_entity.idle uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_mega_art_institution_stage_1_entity.idle uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][persistent.cpp:35]: Error: "Unexpected token: start_event, near line: 54
+" in file: "gfx/models/ships/Megastructure_Assets/Mega_Shipyard/machine_01_mega_shipyard_entities.asset" near line: 54
+[11:31:54][persistent.cpp:35]: Error: "Unexpected token: start_event, near line: 55
+" in file: "gfx/models/ships/Megastructure_Assets/Mega_Shipyard/machine_01_mega_shipyard_entities.asset" near line: 55
+[11:31:54][persistent.cpp:35]: Error: "Unexpected token: event, near line: 56
+" in file: "gfx/models/ships/Megastructure_Assets/Mega_Shipyard/machine_01_mega_shipyard_entities.asset" near line: 56
+[11:31:54][pdx_entity.cpp:2661]: State 'death' in animated entity 'machine_01_mega_shipyard_01_stage_1_entity' is missing an animation!
+[11:31:54][pdx_entity.cpp:275]: machine_01_mega_shipyard_01_stage_1_section_entity.death uses [animation = death] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:2661]: State 'death' in animated entity 'machine_01_mega_shipyard_01_stage_2_entity' is missing an animation!
+[11:31:54][pdx_entity.cpp:275]: machine_01_mega_shipyard_01_stage_2_section_entity.death uses [animation = death] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:2661]: State 'death' in animated entity 'machine_01_mega_shipyard_01_stage_3_entity' is missing an animation!
+[11:31:54][pdx_entity.cpp:275]: machine_01_mega_shipyard_01_stage_3_section_entity.death uses [animation = death] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_spyorb_part_1_entity.idle uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_spyorb_part_2_entity.idle uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_spyorb_part_3_entity.idle uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_strategic_coordination_center_stage_2_entity.idle uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_strategic_coordination_center_stage_3_entity.idle uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_0_ship_exhaust_oblong_moving_particle" (or machine_01_2_0_ship_exhaust_oblong_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_0_ship_exhaust_oblong_moving_particle" (or machine_01_2_0_ship_exhaust_oblong_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:2661]: State 'construction' in animated entity 'machine_01_thinktank_phase_01_entity' is missing an animation!
+[11:31:54][pdx_entity.cpp:2661]: State 'construction' in animated entity 'machine_01_thinktank_phase_02_entity' is missing an animation!
+[11:31:54][pdx_entity.cpp:2661]: State 'construction' in animated entity 'machine_01_thinktank_phase_03_entity' is missing an animation!
+[11:31:54][pdx_entity.cpp:275]: machine_01_explorationship_entity.idle uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_explorationship_entity.moving uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_explorationship_entity.death uses [animation = death] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "nsc_superdread_explosion_particle" (or nsc_superdread_explosion_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:2671]: Couldn't find mesh "mammalian_01_dreadnought_frame_mesh" (or mammalian_01_dreadnought_frame_mesh is not of 'pdxmesh' type) [machine_01_Carrier_entity]
+[11:31:54][pdx_entity.cpp:275]: machine_01_Carrier_entity.idle uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_Carrier_entity.moving uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_Carrier_entity.death uses [animation = death] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "nsc_superdread_explosion_particle" (or nsc_superdread_explosion_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_idle_particle" (or machine_01_2_35_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_idle_particle" (or machine_01_2_35_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_idle_particle" (or machine_01_2_35_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_idle_particle" (or machine_01_2_35_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_ship_exhaust_moving_particle" (or machine_01_2_35_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_ship_exhaust_moving_particle" (or machine_01_2_35_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_ship_exhaust_moving_particle" (or machine_01_2_35_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_ship_exhaust_moving_particle" (or machine_01_2_35_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_oblong_idle_particle" (or machine_01_2_35_exhaust_oblong_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_oblong_idle_particle" (or machine_01_2_35_exhaust_oblong_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_0_exhaust_oblong_idle_particle" (or machine_01_2_0_exhaust_oblong_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_0_exhaust_oblong_idle_particle" (or machine_01_2_0_exhaust_oblong_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_0_ship_exhaust_oblong_moving_particle" (or machine_01_2_0_ship_exhaust_oblong_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_0_ship_exhaust_oblong_moving_particle" (or machine_01_2_0_ship_exhaust_oblong_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_1_5_ship_exhaust_oblong_moving_particle" (or machine_01_1_5_ship_exhaust_oblong_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_1_5_ship_exhaust_oblong_moving_particle" (or machine_01_1_5_ship_exhaust_oblong_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_idle_particle" (or machine_01_2_35_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_idle_particle" (or machine_01_2_35_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_idle_particle" (or machine_01_2_35_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_idle_particle" (or machine_01_2_35_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_ship_exhaust_moving_particle" (or machine_01_2_35_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_ship_exhaust_moving_particle" (or machine_01_2_35_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_ship_exhaust_moving_particle" (or machine_01_2_35_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_ship_exhaust_moving_particle" (or machine_01_2_35_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_oblong_idle_particle" (or machine_01_2_35_exhaust_oblong_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_oblong_idle_particle" (or machine_01_2_35_exhaust_oblong_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_0_exhaust_oblong_idle_particle" (or machine_01_2_0_exhaust_oblong_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_0_exhaust_oblong_idle_particle" (or machine_01_2_0_exhaust_oblong_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_0_ship_exhaust_oblong_moving_particle" (or machine_01_2_0_ship_exhaust_oblong_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_0_ship_exhaust_oblong_moving_particle" (or machine_01_2_0_ship_exhaust_oblong_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_1_5_ship_exhaust_oblong_moving_particle" (or machine_01_1_5_ship_exhaust_oblong_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_1_5_ship_exhaust_oblong_moving_particle" (or machine_01_1_5_ship_exhaust_oblong_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:2671]: Couldn't find mesh "mammalian_01_dreadnought_frame_mesh" (or mammalian_01_dreadnought_frame_mesh is not of 'pdxmesh' type) [machine_01_Dreadnought_entity]
+[11:31:54][pdx_entity.cpp:275]: machine_01_Dreadnought_entity.idle uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_Dreadnought_entity.moving uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_Dreadnought_entity.death uses [animation = death] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "nsc_superdread_explosion_particle" (or nsc_superdread_explosion_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_idle_particle" (or machine_01_2_35_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_idle_particle" (or machine_01_2_35_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_idle_particle" (or machine_01_2_35_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_idle_particle" (or machine_01_2_35_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_ship_exhaust_moving_particle" (or machine_01_2_35_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_ship_exhaust_moving_particle" (or machine_01_2_35_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_ship_exhaust_moving_particle" (or machine_01_2_35_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_ship_exhaust_moving_particle" (or machine_01_2_35_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_oblong_idle_particle" (or machine_01_2_35_exhaust_oblong_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_oblong_idle_particle" (or machine_01_2_35_exhaust_oblong_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_0_exhaust_oblong_idle_particle" (or machine_01_2_0_exhaust_oblong_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_0_exhaust_oblong_idle_particle" (or machine_01_2_0_exhaust_oblong_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_0_ship_exhaust_oblong_moving_particle" (or machine_01_2_0_ship_exhaust_oblong_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_0_ship_exhaust_oblong_moving_particle" (or machine_01_2_0_ship_exhaust_oblong_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_1_5_ship_exhaust_oblong_moving_particle" (or machine_01_1_5_ship_exhaust_oblong_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_1_5_ship_exhaust_oblong_moving_particle" (or machine_01_1_5_ship_exhaust_oblong_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_idle_particle" (or machine_01_2_35_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_idle_particle" (or machine_01_2_35_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_idle_particle" (or machine_01_2_35_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_idle_particle" (or machine_01_2_35_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_ship_exhaust_moving_particle" (or machine_01_2_35_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_ship_exhaust_moving_particle" (or machine_01_2_35_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_ship_exhaust_moving_particle" (or machine_01_2_35_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_ship_exhaust_moving_particle" (or machine_01_2_35_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_oblong_idle_particle" (or machine_01_2_35_exhaust_oblong_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_oblong_idle_particle" (or machine_01_2_35_exhaust_oblong_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_0_exhaust_oblong_idle_particle" (or machine_01_2_0_exhaust_oblong_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_0_exhaust_oblong_idle_particle" (or machine_01_2_0_exhaust_oblong_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_0_ship_exhaust_oblong_moving_particle" (or machine_01_2_0_ship_exhaust_oblong_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_0_ship_exhaust_oblong_moving_particle" (or machine_01_2_0_ship_exhaust_oblong_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_1_5_ship_exhaust_oblong_moving_particle" (or machine_01_1_5_ship_exhaust_oblong_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_1_5_ship_exhaust_oblong_moving_particle" (or machine_01_1_5_ship_exhaust_oblong_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "nsc_flagship_explosion_particle" (or nsc_flagship_explosion_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "nsc_flagship_explosion_particle" (or nsc_flagship_explosion_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:2671]: Couldn't find mesh "mammalian_01_battlecruiser_frame_mesh" (or mammalian_01_battlecruiser_frame_mesh is not of 'pdxmesh' type) [machine_01_escortcarrier_entity]
+[11:31:54][pdx_entity.cpp:275]: machine_01_escortcarrier_entity.idle uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_escortcarrier_entity.moving uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_escortcarrier_entity.death uses [animation = death] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "nsc_superdread_explosion_particle" (or nsc_superdread_explosion_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_idle_particle" (or machine_01_2_35_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_1_45_ship_exhaust_moving_particle" (or machine_01_1_45_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_ship_exhaust_moving_particle" (or machine_01_2_35_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "generic_05exhaust_circle_moving" (or generic_05exhaust_circle_moving is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:2671]: Couldn't find mesh "mammalian_01_battlecruiser_frame_mesh" (or mammalian_01_battlecruiser_frame_mesh is not of 'pdxmesh' type) [machine_01_Battlecruiser_entity]
+[11:31:54][pdx_entity.cpp:275]: machine_01_Battlecruiser_entity.idle uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_Battlecruiser_entity.moving uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_Battlecruiser_entity.death uses [animation = death] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "nsc_superdread_explosion_particle" (or nsc_superdread_explosion_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_idle_particle" (or machine_01_2_35_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_1_45_ship_exhaust_moving_particle" (or machine_01_1_45_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_ship_exhaust_moving_particle" (or machine_01_2_35_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "generic_05exhaust_circle_moving" (or generic_05exhaust_circle_moving is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:275]: machine_01_rs_battlecruiser_entity.idle uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_rs_battlecruiser_entity.moving uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_rs_battlecruiser_entity.death uses [animation = death] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_rs_battlecruiser_entity.death uses [animation = death2] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_rs_battlecruiser_entity.death uses [animation = death3] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_1_45_exhaust_idle_particle" (or machine_01_1_45_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_1_45_exhaust_idle_particle" (or machine_01_1_45_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_1_45_exhaust_idle_particle" (or machine_01_1_45_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_1_45_exhaust_idle_particle" (or machine_01_1_45_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_idle_particle" (or machine_01_2_35_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_1_45_ship_exhaust_moving_particle" (or machine_01_1_45_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_1_45_ship_exhaust_moving_particle" (or machine_01_1_45_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_1_45_ship_exhaust_moving_particle" (or machine_01_1_45_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_1_45_ship_exhaust_moving_particle" (or machine_01_1_45_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_ship_exhaust_moving_particle" (or machine_01_2_35_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_1_45_exhaust_idle_particle" (or machine_01_1_45_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_1_45_exhaust_idle_particle" (or machine_01_1_45_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_1_45_exhaust_idle_particle" (or machine_01_1_45_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_1_45_exhaust_idle_particle" (or machine_01_1_45_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_idle_particle" (or machine_01_2_35_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_1_45_ship_exhaust_moving_particle" (or machine_01_1_45_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_1_45_ship_exhaust_moving_particle" (or machine_01_1_45_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_1_45_ship_exhaust_moving_particle" (or machine_01_1_45_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_1_45_ship_exhaust_moving_particle" (or machine_01_1_45_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_ship_exhaust_moving_particle" (or machine_01_2_35_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_idle_particle" (or machine_01_2_35_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_idle_particle" (or machine_01_2_35_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_idle_particle" (or machine_01_2_35_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_idle_particle" (or machine_01_2_35_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_ship_exhaust_moving_particle" (or machine_01_2_35_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_ship_exhaust_moving_particle" (or machine_01_2_35_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_ship_exhaust_moving_particle" (or machine_01_2_35_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_ship_exhaust_moving_particle" (or machine_01_2_35_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_idle_particle" (or machine_01_2_35_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_1_45_ship_exhaust_moving_particle" (or machine_01_1_45_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_ship_exhaust_moving_particle" (or machine_01_2_35_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_idle_particle" (or machine_01_2_35_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_1_45_ship_exhaust_moving_particle" (or machine_01_1_45_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_ship_exhaust_moving_particle" (or machine_01_2_35_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_idle_particle" (or machine_01_2_35_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_idle_particle" (or machine_01_2_35_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_idle_particle" (or machine_01_2_35_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_idle_particle" (or machine_01_2_35_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_ship_exhaust_moving_particle" (or machine_01_2_35_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_ship_exhaust_moving_particle" (or machine_01_2_35_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_ship_exhaust_moving_particle" (or machine_01_2_35_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_ship_exhaust_moving_particle" (or machine_01_2_35_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_oblong_idle_particle" (or machine_01_2_35_exhaust_oblong_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_oblong_idle_particle" (or machine_01_2_35_exhaust_oblong_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_0_exhaust_oblong_idle_particle" (or machine_01_2_0_exhaust_oblong_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_0_exhaust_oblong_idle_particle" (or machine_01_2_0_exhaust_oblong_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_0_ship_exhaust_oblong_moving_particle" (or machine_01_2_0_ship_exhaust_oblong_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_0_ship_exhaust_oblong_moving_particle" (or machine_01_2_0_ship_exhaust_oblong_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_1_5_ship_exhaust_oblong_moving_particle" (or machine_01_1_5_ship_exhaust_oblong_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_1_5_ship_exhaust_oblong_moving_particle" (or machine_01_1_5_ship_exhaust_oblong_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_idle_particle" (or machine_01_2_35_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_idle_particle" (or machine_01_2_35_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_idle_particle" (or machine_01_2_35_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_idle_particle" (or machine_01_2_35_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_ship_exhaust_moving_particle" (or machine_01_2_35_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_ship_exhaust_moving_particle" (or machine_01_2_35_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_ship_exhaust_moving_particle" (or machine_01_2_35_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_ship_exhaust_moving_particle" (or machine_01_2_35_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_oblong_idle_particle" (or machine_01_2_35_exhaust_oblong_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_oblong_idle_particle" (or machine_01_2_35_exhaust_oblong_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_0_exhaust_oblong_idle_particle" (or machine_01_2_0_exhaust_oblong_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_0_exhaust_oblong_idle_particle" (or machine_01_2_0_exhaust_oblong_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_0_ship_exhaust_oblong_moving_particle" (or machine_01_2_0_ship_exhaust_oblong_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_0_ship_exhaust_oblong_moving_particle" (or machine_01_2_0_ship_exhaust_oblong_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_1_5_ship_exhaust_oblong_moving_particle" (or machine_01_1_5_ship_exhaust_oblong_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_1_5_ship_exhaust_oblong_moving_particle" (or machine_01_1_5_ship_exhaust_oblong_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_idle_particle" (or machine_01_2_35_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_1_45_ship_exhaust_moving_particle" (or machine_01_1_45_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_ship_exhaust_moving_particle" (or machine_01_2_35_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_exhaust_idle_particle" (or machine_01_2_35_exhaust_idle_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_1_45_ship_exhaust_moving_particle" (or machine_01_1_45_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "machine_01_2_35_ship_exhaust_moving_particle" (or machine_01_2_35_ship_exhaust_moving_particle is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:2671]: Couldn't find mesh "molluscoid_01_juggernaut_frame" (or molluscoid_01_juggernaut_frame is not of 'pdxmesh' type) [machine_01_titan_entity]
+[11:31:54][pdx_entity.cpp:275]: machine_01_titan_entity.idle uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_titan_entity.moving uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_titan_entity.death uses [animation = death] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "generic_035_exhaust_circle_moving" (or generic_035_exhaust_circle_moving is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "generic_035_exhaust_circle_moving" (or generic_035_exhaust_circle_moving is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_battleship_entity added to entity system
+[11:31:54][pdx_entity.cpp:141]: Couldn't find particle 3D object "large_player_lithoid_ship_explosion_s_effect" (or large_player_lithoid_ship_explosion_s_effect is not of 'pdxparticle' type)
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_battleship_bow_L1M1S2_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_battleship_bow_L1S4_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_battleship_bow_L2_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_battleship_bow_M1S2SHB_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_battleship_bow_M2S4_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_battleship_bow_M3S2_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_battleship_bow_XL1_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_battleship_mid_L2S4_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_battleship_mid_L1M4_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_battleship_mid_L1M3_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_battleship_mid_L2M2_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_battleship_mid_L3_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_battleship_mid_M4SHB_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_battleship_mid_S4LHB_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_battleship_stern_L1_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_battleship_stern_M1S2_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_battleship_stern_M2_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_battleship_stern_S4_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_missle_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_turret_energy_torpedo_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_turret_torpedo_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_turret_missile_large_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_turret_missile_medium_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_turret_missile_small_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_large_kinetic_gun_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_medium_kinetic_gun_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_small_kinetic_gun_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_turret_point_defence_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_large_laser_gun_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_medium_laser_gun_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_small_laser_gun_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_turret_xl_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_small_space_amoeba_weapon_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_medium_space_amoeba_weapon_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_large_space_amoeba_weapon_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_small_space_cloud_weapon_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_large_space_cloud_weapon_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_small_crystal_ship_weapon_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_medium_crystal_ship_weapon_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_large_crystal_ship_weapon_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_small_mining_drone_weapon_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_medium_mining_drone_weapon_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_small_space_whale_weapon_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_medium_space_whale_weapon_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_large_space_whale_weapon_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_small_scourge_projectile_weapon_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_medium_scourge_projectile_weapon_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_bomber_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_droppod_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_fighter_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_orbital_station_entity added to entity system
+[11:31:54][pdx_entity.cpp:2671]: Couldn't find mesh "machine_01_orbital_station_frame_mesh" (or machine_01_orbital_station_frame_mesh is not of 'pdxmesh' type) [machine_01_orbital_station_entity]
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_orbital_station_core_entity added to entity system
+[11:31:54][pdx_entity.cpp:2671]: Couldn't find mesh "machine_01_orbital_station_mesh" (or machine_01_orbital_station_mesh is not of 'pdxmesh' type) [machine_01_orbital_station_core_entity]
+[11:31:54][pdx_entity.cpp:275]: machine_01_orbital_station_core_entity.idle uses [animation = rotate] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_orbital_station_core_entity.death uses [animation = death] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_orbital_station_core_entity.habitat_idle uses [animation = rotate] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_orbital_station_assemblyyard_section_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_orbital_station_hangarbay_section_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_orbital_station_refinery_section_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_orbital_station_science_section_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_orbital_station_hydroponics_section_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_habitat_core_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_orbital_station_habitat_section_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_habitat_phase_01_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_habitat_phase_02_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_habitat_window_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_habitat_phase_03_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_habitat_phase_03_section_entity added to entity system
+[11:31:54][pdx_entity.cpp:275]: machine_01_habitat_phase_03_section_entity.construction uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_habitat_phase_03_section_entity.death uses [animation = death] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_ring_habitat_nightlights_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_mining_station_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_mining_station_section_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_mining_station_construction_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_terraform_station_entity added to entity system
+[11:31:54][pdx_entity.cpp:275]: machine_01_terraform_station_entity.idle uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_terraform_station_entity.death uses [animation = death] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_research_station_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_research_station_section_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_research_station_construction_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_wormhole_station_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_observation_station_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_military_station_large_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_military_station_medium_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_military_station_small_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_military_station_section_heavy_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_military_station_section_medium_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_military_station_section_light_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_outpost_station_entity added to entity system
+[11:31:54][pdx_entity.cpp:2752]: Duplicate of machine_01_outpost_station_section_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_constructor_entity added to entity system
+[11:31:54][pdx_entity.cpp:260]: Could not find animation "working" for state "working" in entity "machine_01_constructor_entity"
+[11:31:54][pdx_entity.cpp:260]: Could not find animation "working_looping" for state "working_looping" in entity "machine_01_constructor_entity"
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_construction_ship_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_colonizer_entity added to entity system
+[11:31:54][pdx_entity.cpp:2671]: Couldn't find mesh "machine_01_corvette_frame_mesh" (or machine_01_corvette_frame_mesh is not of 'pdxmesh' type) [machine_01_colonizer_entity]
+[11:31:54][pdx_entity.cpp:275]: machine_01_colonizer_entity.idle uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_colonizer_entity.moving uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_colonizer_entity.death uses [animation = death3] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:2752]: Duplicate of machine_01_sponsored_colonizer_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_colony_ship_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_science_entity added to entity system
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_science_ship_entity added to entity system
+[11:31:54][pdx_entity.cpp:275]: machine_01_science_ship_entity.death uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_transport_entity added to entity system
+[11:31:54][pdx_entity.cpp:2671]: Couldn't find mesh "machine_01_corvette_frame_mesh" (or machine_01_corvette_frame_mesh is not of 'pdxmesh' type) [machine_01_transport_entity]
+[11:31:54][pdx_entity.cpp:275]: machine_01_transport_entity.idle uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_transport_entity.moving uses [animation = idle] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:275]: machine_01_transport_entity.death uses [animation = death3] but the entity does not have an animated mesh!
+[11:31:54][pdx_entity.cpp:2583]: Duplicate of machine_01_transport_ship_entity added to entity system
+[11:31:55][pdx_entity.cpp:463]: Failed to find entity "machine_01_ring_habitat_landmass_entity" for attachment in 
+[11:31:55][pdx_entity.cpp:463]: Failed to find entity "rs_emitter_red_entity" for attachment in 
+[11:31:55][pdx_entity.cpp:463]: Failed to find entity "rs_energy_red_entity" for attachment in 
+[11:31:55][pdx_entity.cpp:463]: Failed to find entity "rs_emitter_red_entity" for attachment in 
+[11:31:55][pdx_entity.cpp:463]: Failed to find entity "rs_energy_red_entity" for attachment in 
+[11:31:55][pdx_entity.cpp:463]: Failed to find entity "rs_emitter_red_entity" for attachment in 
+[11:31:55][pdx_entity.cpp:463]: Failed to find entity "rs_energy_red_entity" for attachment in 
+[11:31:55][pdx_entity.cpp:463]: Failed to find entity "machine_01_rs_heavy_dreadnought_type_b_mid2_L3_bottom_entity" for attachment in 
+[11:31:55][pdx_entity.cpp:463]: Failed to find entity "rs_emitter_blue_entity" for attachment in 
+[11:31:55][pdx_entity.cpp:463]: Failed to find entity "rs_energy_blue_entity" for attachment in 
+[11:32:01][section.cpp:292]: ship section entity "machine_01_juggernaut_core_section_entity" is missing required locator "strike_craft_locator_04"
+[11:32:01][section.cpp:292]: ship section entity "machine_01_juggernaut_core_section_entity" is missing required locator "strike_craft_locator_05"
+[11:32:01][section.cpp:292]: ship section entity "machine_01_juggernaut_core_section_entity" is missing required locator "strike_craft_locator_06"
