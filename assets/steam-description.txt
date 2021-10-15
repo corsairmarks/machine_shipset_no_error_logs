@@ -8,7 +8,7 @@ Along the way, I also added missing particles based on the source definitions (g
 
 Many entity definitions were tweaked to remove (or sometimes add) animations.  "Removed" code was commented out rather than deleted so it should be straightforward to re-enable sections responsible for things for compatibility with NSC, RS, DSS, or ACG.  AryxErin, if you are reading this - feel free to harvest fixes for use in your mod directly.
 
-If you want to read the huge, explicit list I made of the changes please visit this mod's GitHub page ove view the README.md in its root directory.
+If anyone wants to read the huge, explicit list I made of the changes, then please visit this mod's GitHub page or view the README.md in its root directory.  With no other mods installed, Machine Shipset generates over 400 lines of error logs on game start.  This mod eliminates all of them by fixing the errors in code.  Should you find that there are still error logs related to the Machine Shipset while playing Stellaris, [i]please[/i] let me know and I will fix them.
 
 [h2]Compatibility[/h2]
 
