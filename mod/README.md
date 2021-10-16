@@ -166,7 +166,7 @@ Will probably cause issues with Machine Shipset compatibility patches for other 
 
 [Machine Shipset Add-on: Shattered Ring Appearance]() ensures that the permanently-destroyed sections for Origin: Shattered Ring using the Machine Shipset properly display as that shipset.  This mod adds missing graphical definitions to the Machine Shipset.
 
-[Aesthetic Terraform Stations](https://steamcommunity.com/sharedfiles/filedetails/?id=2622411084) will give you back the very old-school terraform stations a visual markers for terraforming planets.
+[Aesthetic Terraform Stations](https://steamcommunity.com/sharedfiles/filedetails/?id=2622411084) will give you back the very old-school terraform stations as visual markers for terraforming planets.
 
 [Machine Shipset Add-on: Aesthetic Terraform Station Compatibility]() this compatibility patch ensures the correct Machine Shipset graphics are used for the above terraform stations.
 
