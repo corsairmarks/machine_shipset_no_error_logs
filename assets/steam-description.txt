@@ -14,19 +14,21 @@ If anyone wants to read the huge, explicit list I made of the changes, then plea
 
 Will probably cause issues with Machine Shipset compatibility patches for other large mods (New Ship Classes, Downscaled Ships, Real Space System Scale, Aesthetic Cinematic Gameplay).  I don't use any of those mods and did not test for compatibility, but I know that I commented out code related to supporting assets from those mods.  That ensures errors are not generated when they are not installed.
 
+Built for Stellaris version 3.1.* "Lem."  Not compatible with achievements.
+
 [h3]Required Dependency Mods[/h3]
 
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2077186491]Machine Shipset[/url] for the original graphics and other ship-related code.
 
-### Recommended Companion Mods
+[h3]Recommended Companion Mods[/h3]
 
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2628518102]Ringworld Graphical Enhancements[/url], [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2566249278]Shattered Ring Shipset Fix[/url], or [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2522974089]Subtle Polish: A Collection of Fixes and Enhancements[/url] to set your Origin: Shattered Ring empires to have ringworlds matching their shipset (graphical culture), which includes the Machine Shipset.
 
-[url=]Machine Shipset Add-on: Shattered Ring Appearance[/url] ensures that the permanently-destroyed sections for Origin: Shattered Ring using the Machine Shipset properly display as that shipset.  This mod adds missing graphical definitions to the Machine Shipset.
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2628980994]Machine Shipset Add-on: Shattered Ring Appearance[/url] ensures that the permanently-destroyed sections for Origin: Shattered Ring using the Machine Shipset properly display as that shipset.  This mod adds missing graphical definitions to the Machine Shipset.
 
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2622411084]Aesthetic Terraform Stations[/url] will give you back the very old-school terraform stations as visual markers for terraforming planets.
 
-[url=]Machine Shipset Add-on: Aesthetic Terraform Station Compatibility[/url] this compatibility patch ensures the correct Machine Shipset graphics are used for the above terraform stations.
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2628972292]Machine Shipset Add-on: Aesthetic Terraform Station Compatibility[/url] this compatibility patch ensures the correct Machine Shipset graphics are used for the above terraform stations.
 
 [h2]Changelog[/h2]
 
