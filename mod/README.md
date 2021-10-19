@@ -8,7 +8,7 @@ Along the way, I also added missing particles based on the source definitions (g
 
 Many entity definitions were tweaked to remove (or sometimes add) animations.  "Removed" code was commented out rather than deleted so it should be straightforward to re-enable sections responsible for things for compatibility with NSC, RS, DSS, or ACG.  AryxErin, if you are reading this - feel free to harvest fixes for use in your mod directly.
 
-* `common/species_classes/machine_01_species_classes.txt` mark species class as not playable, set to use `machine_01` graphical culture
+* `common/species_classes/machine_01_species_classes.txt` mark species class as not randomized, set to use `machine_01` graphical culture
 * `common/species_names/machine_mgo_names.txt` fix syntax error for `plexi` (missing `=`)
 * `gfx/models/ships/Colossus_Assets/machine_01_colossus.asset`
     * Remove reference to particle `lithoid_01_starbase_core_effect` - does not actually exist despite the game also referencing it
