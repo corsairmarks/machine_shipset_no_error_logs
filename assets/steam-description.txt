@@ -1,6 +1,6 @@
 [h1]Overview[/h1]
 
-Are you a mod developer who is wishing for a quieter `error.log` while you debug with the Machine Shipset active  Then this mod is for you (and me)!  This mod does [b]NOT[/b] redistribute any of the graphics from the Machine Shipset, but does redefine and replace entity asset files in order to eliminate many error messages and some syntax errors.
+Are you a mod developer who is wishing for a quieter [b]error.log[/b] while you debug with the Machine Shipset active  Then this mod is for you (and me)!  This mod does [b]NOT[/b] redistribute any of the graphics from the Machine Shipset, but does redefine and replace entity asset files in order to eliminate many error messages and some syntax errors.
 
 Along the way, I also added missing particles based on the source definitions (generally from the mammalian or molluscoid ships).  Also missing from several files were the variables defining engine trail length.  Between these two refinements, the Machine Shipset looks nicer than ever.
 
