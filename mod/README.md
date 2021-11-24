@@ -1,6 +1,6 @@
 # Overview
 
-Are you a mod developer who is tired of the noisy error logs from the Machine Shipset?  Then this mod is for you (and me)!  This mod does **NOT** redistribute any of the graphics from the Machine Shipset, but does redefine and replace entity asset files in order to eliminate many error messages and some syntax errors.
+Are you a mod developer who is wishing for a quieter `error.log` while you debug with the Machine Shipset active?  Then this mod is for you (and me)!  This mod does **NOT** redistribute any of the graphics from the Machine Shipset, but does redefine and replace entity asset files in order to eliminate many error messages and some syntax errors.
 
 Along the way, I also added missing particles based on the source definitions (generally from the mammalian or molluscoid ships).  Also missing from several files were the variables defining engine trail length.  Between these two refinements, the Machine Shipset looks nicer than ever.
 
@@ -15,6 +15,7 @@ Many entity definitions were tweaked to remove (or sometimes add) animations.  "
     * Remove animation state from `machine_01_colossus_entity` - the mesh isn't animated
 * `gfx/models/ships/Colossus_Assets/machine_01_colossus.gfx`
     * Remove animation definitions - the mesh `machine_01_colossus_frame_mesh` isn't animated
+    * Add missing locator to: `frame_ship`
 * `gfx/models/ships/Crisis_Assets/machine_01_crisis_entities.asset`
     * ARYXERIN's name should be inside a comment
     * Remove duplicate, non-crises entities (everything from BATTLESHIP and below)
@@ -124,6 +125,7 @@ Many entity definitions were tweaked to remove (or sometimes add) animations.  "
     * Add state timers to `machine_01_terraform_station_entity` matching those on `machine_01_mining_station_entity` (which uses the exact same mesh)
     * Set animation for the `working` and `working_looping` states for `machine_01_constructor_entity` to `idle`; the attached entity `machine_01_construction_ship_entity` is responsible for the actual animation
     * Remove animations from `machine_01_colonizer_entity` - the mesh isn't animated
+    * Add missing locator to `machine_01_colonizer_entity`: `part1`
     * Remove animations from `machine_01_science_ship_entity` - the mesh isn't animated
     * Remove animations from `machine_01_transport_entity` - the mesh isn't animated
 * `gfx/models/ships/machine_01_ships_meshes.gfx`
@@ -156,7 +158,7 @@ Many entity definitions were tweaked to remove (or sometimes add) animations.  "
 
 Will probably cause issues with Machine Shipset compatibility patches for other large mods (New Ship Classes, Downscaled Ships, Real Space System Scale, Aesthetic Cinematic Gameplay).  I don't use any of those mods and did not test for compatibility, but I know that I commented out code related to supporting assets from those mods.  That ensures errors are not generated when they are not installed.
 
-Built for Stellaris version 3.1.\* "Lem."  Not compatible with achievements.
+Built for Stellaris version 3.2.\* "Herbert."  Not compatible with achievements.
 
 ### Required Dependency Mods
 
@@ -175,6 +177,8 @@ Built for Stellaris version 3.1.\* "Lem."  Not compatible with achievements.
 ## Changelog
 
 * 1.0.0 Initial version
+* 1.1.0 Mark as compatible with Stellaris version 3.2 "Herbert"
+    * Add two additional missing locators
 
 ## Source Code
 
