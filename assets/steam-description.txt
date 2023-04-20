@@ -24,7 +24,7 @@ Built for Stellaris version 3.2.* "Herbert."  Not compatible with achievements.
 
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2628518102]Ringworld Graphical Enhancements[/url], [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2566249278]Shattered Ring Shipset Fix[/url], or [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2522974089]Subtle Polish: A Collection of Fixes and Enhancements[/url] to set your Origin: Shattered Ring empires to have ringworlds matching their shipset (graphical culture), which includes the Machine Shipset.
 
-[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2628980994]Machine Shipset Add-on: Shattered Ring Appearance[/url] ensures that the permanently-destroyed sections for Origin: Shattered Ring using the Machine Shipset properly display as that shipset.  This mod adds missing graphical definitions to the Machine Shipset.
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2628980994]Machine Shipset Add-on: Shattered Ring and Habitat Appearance[/url] ensures that the permanently-destroyed sections for Origin: Shattered Ring using the Machine Shipset properly display as that shipset.  This mod adds missing graphical definitions to the Machine Shipset.
 
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2622411084]Aesthetic Terraform Stations[/url] will give you back the very old-school terraform stations as visual markers for terraforming planets.
 
@@ -38,4 +38,4 @@ See [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2628996629
 
 Hosted on [url=https://github.com/corsairmarks/machine_shipset_no_error_logs]GitHub[/url]
 
-[url=https://discord.gg/bHVez2C][img]https://i.imgur.com/4Und3QN.png[/img][/url]
+[url=https://discord.gg/2qjkAF8DY7][img]https://i.imgur.com/4Und3QN.png[/img][/url]
